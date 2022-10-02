@@ -1,0 +1,14 @@
+{
+  "id": "183",
+  "name": "Acandar",
+  "description": "Description TBD",
+  "image": "cover.png" // in assets folder
+}
+
+{/*
+  "type": "environment",
+  "title": "Acandar",
+  "description": "A medievil world to explore and conquer.",
+  "image": "cover.png",
+  "slug": "acandar"
+*/}

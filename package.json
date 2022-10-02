@@ -1,0 +1,21 @@
+{
+  "name": "acandar",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "hyperfy-tools dev",
+    "build": "hyperfy-tools build",
+    "start": "hyperfy-tools start",
+    "connect": "hyperfy-tools connect",
+    "disconnect": "hyperfy-tools disconnect",
+    "upload": "hyperfy-tools upload",
+    "delete": "hyperfy-tools delete"
+  },
+  "devDependencies": {
+    "hyperfy-tools": "2.0.3"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=16.14.2"
+  }
+}
